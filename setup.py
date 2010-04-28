@@ -1,6 +1,7 @@
 from numpy.distutils.core import setup
 
-import matthew_monkey
+import lisandro_monkey
+#import matthew_monkey
 
 def configuration(parent_package='',top_path=None):
     from numpy.distutils.misc_util import Configuration
